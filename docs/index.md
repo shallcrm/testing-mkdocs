@@ -17,3 +17,10 @@ This is being used for testing of MkDocs with the Material theme
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+## My Pages
+
+Below are links to my pages for tetsting
+
+[Table Test](table-tset.md)
