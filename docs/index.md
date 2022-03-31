@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+This is being used for testing of Material for MkDocs 
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
