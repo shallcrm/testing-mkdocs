@@ -23,4 +23,4 @@ This is being used for testing of MkDocs with the Material theme
 
 Below are links to my pages for tetsting
 
-[Table Test](table-tset.md)
+[Table Test](table-test.md)
