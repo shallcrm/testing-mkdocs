@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-This is being used for testing of Material for MkDocs 
+This is being used for testing of MkDocs with the Material theme
 
 ## Commands
 
