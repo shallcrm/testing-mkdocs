@@ -21,6 +21,6 @@ This is being used for testing of MkDocs with the Material theme
 
 ## My Pages
 
-Below are links to my pages for tetsting
+Below are links to my pages for testing
 
 [Table Test](table-test.md)
